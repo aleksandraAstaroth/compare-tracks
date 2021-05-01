@@ -1,0 +1,2083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Spellista</title>
+	<trackList>
+		<track>
+			<location>file:///D:/Downloads/SLSK/H%21%20Dude%20-%20Mr%20Drugs%20%28Original%20Mix%29%20%5Bwww.jkmk.net%20-%20FREE%20Download%20-%20AIFF%20%26%20MP3%5D.mp3</location>
+			<title>Mr Drugs (Original Mix)</title>
+			<creator>H! Dude</creator>
+			<album>A.C.!.D</album>
+			<trackNum>2</trackNum>
+			<annotation>www.jkmk.net</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/H%21%20Dude/A.C.%21.D/art.jpg</image>
+			<duration>368197</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/T78%20-%20Retro%20Freak%20%28Original%20Mix%29.mp3</location>
+			<title>Retro Freak (Original Mix)</title>
+			<creator>T78</creator>
+			<album>www.electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/T78/www.electronicfresh.com/art.png</image>
+			<duration>413051</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Trym%20-%20Millenium%20Pain.mp3</location>
+			<title>Millenium Pain</title>
+			<creator>Trym</creator>
+			<duration>423444</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/11.%20Charlotte%20de%20Witte%20-%20Return%20To%20Nowhere%20%28Original%20Mix%29.mp3</location>
+			<title>Return To Nowhere (Original Mix)</title>
+			<creator>Charlotte de Witte</creator>
+			<album>electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Charlotte%20de%20Witte/electronicfresh.com/art.png</image>
+			<duration>369766</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Dandi%20%26%20Ugo%20-%20Cave%20%28Niereich%2C%20Shadym%20Remix%29%20-%20www.electronicfresh.com.mp3</location>
+			<title>Cave (Niereich, Shadym Remix)</title>
+			<creator>Dandi &amp; Ugo</creator>
+			<album>Cave</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Dandi%20%26%20Ugo/Cave/art.png</image>
+			<duration>373919</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/ACHIEVER%20-%20Vicer.mp3</location>
+			<title>Vicer</title>
+			<creator>ACHIEVER</creator>
+			<duration>390112</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/DJ%20Tom%20809%20-%20Back%20Space%20%28FJ%20Project%20Remix%29.mp3</location>
+			<title>Back Space (FJ Project Remix)</title>
+			<creator>DJ Tom 809</creator>
+			<duration>356205</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/NN%20-%20NN%20-%20Victims%20Of%20A%20Forgotten%20War%20-RAW004-%20-%2004%20Order%20%26%20Chaos%20%28online-audio-converter.com%29.mp3</location>
+			<title>Order &amp; Chaos</title>
+			<creator>NN</creator>
+			<album>NN - Victims Of A Forgotten War [RAW004]</album>
+			<annotation>online-audio-converter.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/NN/NN%20-%20Victims%20Of%20A%20Forgotten%20War%20%5BRAW004%5D/art.jpg</image>
+			<duration>280842</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/02.%20Swarm%20Intelligence%20-%20Plight.mp3</location>
+			<title>Plight</title>
+			<creator>Swarm Intelligence</creator>
+			<album>47026</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Swarm%20Intelligence/47026/art.jpg</image>
+			<duration>309475</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Analect%20-%20Defined%20By%20Tyranny%20EP%20-%2001%20Defined%20By%20Tyranny.mp3</location>
+			<title>Defined By Tyranny</title>
+			<creator>Analect</creator>
+			<album>Defined By Tyranny EP</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://insaneindustry.bandcamp.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Analect/Defined%20By%20Tyranny%20EP/art.jpg</image>
+			<duration>386142</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Analect%20-%20Defined%20By%20Tyranny%20EP%20-%2002%20Panzerfaust.mp3</location>
+			<title>Panzerfaust</title>
+			<creator>Analect</creator>
+			<album>Defined By Tyranny EP</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit https://insaneindustry.bandcamp.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Analect/Defined%20By%20Tyranny%20EP/art.jpg</image>
+			<duration>389433</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Analect%20-%20I%20Remember%20my%20First%20Rave.mp3</location>
+			<title>Remember my First Rave</title>
+			<creator>Analect</creator>
+			<duration>298396</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/14149052_Chaos_Insurgent_Original_Mix.mp3</location>
+			<title>Chaos Insurgent (Original Mix)</title>
+			<creator>X66</creator>
+			<album>Into Darkness No. 2 (New Generation of Terror)</album>
+			<trackNum>12</trackNum>
+			<annotation>Purchased at Beatport.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/X66/Into%20Darkness%20No.%202%20%28New%20Generation%20of%20Terror%29/art.jpg</image>
+			<duration>291686</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/14136607_Jugend_Ohne_Gott_Original_Mix.mp3</location>
+			<title>Jugend Ohne Gott (Original Mix)</title>
+			<creator>KlangKuenstler</creator>
+			<album>Himmelreich</album>
+			<trackNum>3</trackNum>
+			<annotation>Purchased at Beatport.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/KlangKuenstler/Himmelreich/art.jpg</image>
+			<duration>363497</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/14149043_Battle_Mode_Original_Mix.mp3</location>
+			<title>Battle Mode (Original Mix)</title>
+			<creator>Denizens</creator>
+			<album>Into Darkness No. 2 (New Generation of Terror)</album>
+			<trackNum>3</trackNum>
+			<annotation>Purchased at Beatport.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Denizens/Into%20Darkness%20No.%202%20%28New%20Generation%20of%20Terror%29/art.jpg</image>
+			<duration>358246</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/14105655_Microchip_Original_Mix.mp3</location>
+			<title>Microchip (Original Mix)</title>
+			<creator>Kamil Van Derson, Marco Ginelli</creator>
+			<album>Control</album>
+			<trackNum>3</trackNum>
+			<annotation>Purchased at Beatport.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Kamil%20Van%20Derson%2C%20Marco%20Ginelli/Control/art.jpg</image>
+			<duration>420235</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/05.%20Bassbottle%20-%20Back%20And%20White%20%28online-audio-converter.com%29.mp3</location>
+			<title>Back and White</title>
+			<creator>Bassbottle</creator>
+			<album>Nachtschicht</album>
+			<annotation>online-audio-converter.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Bassbottle/Nachtschicht/art.jpg</image>
+			<duration>334889</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Kozlov%20-%20Tchernobyl.mp3</location>
+			<title>Tchernobyl</title>
+			<creator>Kozlov</creator>
+			<album>Tchernobyl</album>
+			<trackNum>1</trackNum>
+			<annotation>4A - 7</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Kozlov/Tchernobyl/art.jpg</image>
+			<duration>359030</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03%20Beat%20On%20The%20Jungle%20%28Rob%20J.%20Remix%29%20%28online-audio-converter.com%29.mp3</location>
+			<title>Beat On The Jungle (Rob J. Remix)</title>
+			<creator>Arnold, Rob J.</creator>
+			<album>Beat On The Jungle</album>
+			<annotation>online-audio-converter.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Arnold%2C%20Rob%20J./Beat%20On%20The%20Jungle/art.jpg</image>
+			<duration>390922</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/DYEN%20-%20Evil%20May%20Day%20%28Original%20Mix%29.mp3</location>
+			<title>Evil May Day (Original Mix)</title>
+			<creator>DYEN</creator>
+			<album>RAVE04</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/DYEN/RAVE04/art.jpg</image>
+			<duration>407330</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/11%20Inhalt%20Der%20Nacht%20-%20Dosis.mp3</location>
+			<title>Dosis</title>
+			<creator>Inhalt Der Nacht</creator>
+			<album>The World Of Monnom Black</album>
+			<trackNum>11</trackNum>
+			<annotation>Visit http://monnomblack.bandcamp.com</annotation>
+			<duration>426661</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Trym%20-%20Transition%20%28Original%20Mix%29.mp3</location>
+			<title>Transition (Original Mix)</title>
+			<creator>Trym</creator>
+			<album>Sparkling System</album>
+			<trackNum>3</trackNum>
+			<annotation>reference libFLAC 1.3.2 20170101</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Trym/Sparkling%20System/art.png</image>
+			<duration>326690</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Reveillon%20%26%20Axel%20Picodot%20-%20Sync%20%28Axel%20Picodot%20Acid%20Domination%20Remix%29.mp3</location>
+			<title>Reveillon &amp; Axel Picodot - Syn</title>
+			<duration>354615</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/02%20Eerie%20%28Sleeparchive%20Remix%29.mp3</location>
+			<title>Eerie (Sleeparchive Remix)</title>
+			<creator>Lewis Fautzi</creator>
+			<album>Disasters On The Horizon EP</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Lewis%20Fautzi/Disasters%20On%20The%20Horizon%20EP/art.jpg</image>
+			<duration>411901</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/4%20-%20Eine%20Andere%20Welt%20%28Perc%20Remix%29.mp3</location>
+			<title>Eine Andere Welt (Perc Remix)</title>
+			<creator>New Frames</creator>
+			<album>Stylized Fear</album>
+			<trackNum>4</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/New%20Frames/Stylized%20Fear/art.jpg</image>
+			<duration>374546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/F-Rontal%20-%20Puffer.mp3</location>
+			<title>Puffer</title>
+			<creator>F-Rontal</creator>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/arturl/3666bb911eaa4194c8448800072c408c/art.jpg</image>
+			<duration>594497</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01-t78-king_randor_%28original_mix%29-fcc8fffe.mp3</location>
+			<title>King Randor (Original Mix)</title>
+			<creator>T78</creator>
+			<album>King Randor</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/T78/King%20Randor/art.jpg</image>
+			<duration>380372</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01-charlotte_de_witte-sgadi_li_mi_%28original_mix%29.mp3</location>
+			<title>Sgadi Li Mi (Original Mix)</title>
+			<creator>Charlotte de Witte</creator>
+			<album>Return To Nowhere EP</album>
+			<trackNum>1</trackNum>
+			<annotation>.[ AFO (C) 2020 ].</annotation>
+			<duration>383586</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03-swart-bombs_away.mp3</location>
+			<title>Bombs Away</title>
+			<creator>SWART</creator>
+			<album>Death To The Quarantine</album>
+			<trackNum>3</trackNum>
+			<annotation>Vague / VAGUE005</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/SWART/Death%20To%20The%20Quarantine/art.jpg</image>
+			<duration>367206</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01-mickey_nox-come_into_the_%28wanton_remix%29-e6ece054.mp3</location>
+			<title>Come Into The (Wanton Remix)</title>
+			<creator>Mickey Nox</creator>
+			<album>Green Fetish Remixed</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Mickey%20Nox/Green%20Fetish%20Remixed/art.jpg</image>
+			<duration>444058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Disk%20Space%20-%20Runtime%20Error.mp3</location>
+			<title>Disk Space - Runtime Error</title>
+			<duration>355578</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Metapattern%20-%20Storming%20of%20the%20Bastille%20%28Original%20Mix%29%20%5BHardwork%20Records%5D.mp3</location>
+			<title>Storming of the Bastille (Original Mix)</title>
+			<creator>Metapattern</creator>
+			<album>www.electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Metapattern/www.electronicfresh.com/art.png</image>
+			<duration>371177</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Tilthammer%20-%20Nosferatu%20my-free-mp3s.com%20.mp3</location>
+			<title>Nosferatu </title>
+			<creator>Tilthammer</creator>
+			<duration>360075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/07.%20INSTIGATOR%20-%20Be%20With%20Me.mp3</location>
+			<title>Be With Me</title>
+			<creator>INSTIGATOR</creator>
+			<album>Flash Back 01</album>
+			<annotation>.:SRG:.</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/INSTIGATOR/Flash%20Back%2001/art</image>
+			<duration>390115</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Emergency%20Procedures.mp3</location>
+			<title>Emergency Procedures</title>
+			<creator>AnD</creator>
+			<album>Beast Mode</album>
+			<trackNum>1</trackNum>
+			<duration>390348</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/02-kevin_wesp-massive_construction_%28shadym_remix%29-d09e10b1.mp3</location>
+			<title>Massive Construction (Shadym Remix)</title>
+			<creator>Kevin Wesp</creator>
+			<album>Creatures of Dark Techno, Vol. 3</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Kevin%20Wesp/Creatures%20of%20Dark%20Techno%2C%20Vol.%203/art.jpg</image>
+			<duration>371072</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/02-the_phrenetic_project-left_turn_right_place_%28original_mix%29-211f11.mp3</location>
+			<title>Left Turn Right Place (Original Mix)</title>
+			<creator>The Phrenetic Project</creator>
+			<album>Hardgrooves, Vol.2</album>
+			<trackNum>2</trackNum>
+			<annotation>..:iHR:..</annotation>
+			<duration>329198</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/13-mental_crush-gangbang_%28original_mix%29-61906b89.mp3</location>
+			<title>Gangbang (Original Mix)</title>
+			<creator>Mental Crush</creator>
+			<album>Hardtechno Power</album>
+			<trackNum>13</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Mental%20Crush/Hardtechno%20Power/art.jpg</image>
+			<duration>325802</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/35-mental_crush-inside_me_%28original_mix%29-9c1d33.mp3</location>
+			<title>Inside Me (Original Mix)</title>
+			<creator>Mental Crush</creator>
+			<album>10 Years Of Rebirth Society Records</album>
+			<trackNum>35</trackNum>
+			<annotation>..:iHR:..</annotation>
+			<duration>377211</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/44%20-%20T78%2C%20Dino%20Maggiorana%20-%20Hardcore%20%28Original%20Mix%29.mp3</location>
+			<title>Hardcore (Original Mix)</title>
+			<creator>T78, Dino Maggiorana</creator>
+			<album>electronicfresh.com</album>
+			<annotation>electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/T78%2C%20Dino%20Maggiorana/electronicfresh.com/art</image>
+			<duration>454429</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/2%20-%20Escape%20Artist%20%28online-audio-converter.com%29.mp3</location>
+			<title>Escape Artist</title>
+			<creator>Otto Tito</creator>
+			<album>Escape Artist</album>
+			<annotation>online-audio-converter.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Otto%20Tito/Escape%20Artist/art.jpg</image>
+			<duration>365479</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/06%20Lost%20Minds%20%28DE%29%20-%20Neonclouds.mp3</location>
+			<title>Neonclouds</title>
+			<creator>Lost Minds (DE)</creator>
+			<duration>375405</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03%20In%20a%20Tube%20%28Niereich%20vs.%20Shadym%20%26%20Tximeleta%20Remix%29%20%28online-audio-converter.com%29.mp3</location>
+			<title>In a Tube (Niereich vs. Shadym &amp; Tximeleta Remix)</title>
+			<creator>Sebastian Groth</creator>
+			<album>In a Tube</album>
+			<annotation>online-audio-converter.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Sebastian%20Groth/In%20a%20Tube/art.jpg</image>
+			<duration>394187</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Bagagee%20Viphex13%2C%20Pierre%20Blanche%20-%20Last%20Space%20%28Original%20Mix%29.mp3</location>
+			<title>Last Space (Original Mix)</title>
+			<creator>Bagagee Viphex13, Pierre Blanche</creator>
+			<duration>397612</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Twins%20Project%20-%20Bass%20In%20Your%20Face%20%28Space%2092%20Remix%29.mp3</location>
+			<title>Bass In Your Face (Space 92 Remix)</title>
+			<creator>Twins Project</creator>
+			<album>electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Twins%20Project/electronicfresh.com/art.jpg</image>
+			<duration>428396</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/192%20-%20DYEN%20-%20The%20Aftermath.mp3</location>
+			<title>The Aftermath</title>
+			<creator>DYEN</creator>
+			<album>The Aftermath</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/DYEN/The%20Aftermath/art.jpg</image>
+			<duration>427026</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/SRVD%20-%20Talking%202%20B%20Mad%20.mp3</location>
+			<title>Talking 2 B Mad </title>
+			<creator>SRVD</creator>
+			<album>electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/SRVD/electronicfresh.com/art.jpg</image>
+			<duration>558448</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/127%20-%20Reveillon%20-%20Djembe%20%28Nico%20Moreno%20Remix%29.mp3</location>
+			<title>Djembe (Nico Moreno Remix)</title>
+			<creator>Reveillon; Nico Moreno</creator>
+			<album>PZ Bunker</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Reveillon%3B%20Nico%20Moreno/PZ%20Bunker/art.jpg</image>
+			<duration>351062</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03.%20Kai%20Tracid%2C%20Tom%20Wax%2C%20A_S_Y_S%20-%20Freedom%20of%20Expression%20%28Dark%20Acid%20Mix%29.mp3</location>
+			<title>Freedom of Expression (Dark Acid Mix)</title>
+			<creator>Kai Tracid, Tom Wax, A*S*Y*S</creator>
+			<album>electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Kai%20Tracid%2C%20Tom%20Wax%2C%20A_S_Y_S/electronicfresh.com/art.jpg</image>
+			<duration>397351</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Superstrobe%20-%20Humanoid%20%28Original%20Mix%29.mp3</location>
+			<title>Humanoid (Original Mix)</title>
+			<creator>Superstrobe</creator>
+			<album>ElectronicFresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Superstrobe/ElectronicFresh.com/art.jpg</image>
+			<duration>417753</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Thomas%20Schumacher%20-%20Feist%20%28Original%20Mix%29%20%5BDrumcode%5D.mp3</location>
+			<title>Feist (Original Mix) </title>
+			<creator>Thomas Schumacher</creator>
+			<album>Crimson</album>
+			<annotation>dbox.pro - AIFF downloads</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Thomas%20Schumacher/Crimson/art.jpg</image>
+			<duration>426138</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/44.%20Alignment%20-%20Ever%20Gone%20%28Original%20Mix%29.mp3</location>
+			<title>Ever Gone (Original Mix)</title>
+			<creator>Alignment</creator>
+			<album>electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Alignment/electronicfresh.com/art.jpg</image>
+			<duration>359604</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/ALIGNMENT-TIME-2124B826.mp3</location>
+			<title>Time</title>
+			<creator>Alignment</creator>
+			<album>Time</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Alignment/Time/art.jpg</image>
+			<duration>363967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03-opal-new_world_order.mp3</location>
+			<title>New World Order</title>
+			<creator>Opal</creator>
+			<album>Dominator</album>
+			<trackNum>3</trackNum>
+			<annotation>voxnox Records / VNR040</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Opal/Dominator/art.jpg</image>
+			<duration>455186</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Sirch%2C%20William%20Kiss%20-%20Delhi%20%28Original%20Mix%29.mp3</location>
+			<title>Delhi</title>
+			<creator>Sirch, William Kiss</creator>
+			<annotation>8A</annotation>
+			<duration>516257</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Trym%20-%20R%20-%20301%20%28Original%20Mix%29%20%28online-audio-converter.com%29.mp3</location>
+			<title>R - 301 (Original Mix)</title>
+			<creator>Trym</creator>
+			<annotation>online-audio-converter.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/arturl/2f0418d6482820f4e4869d3cff2d2338/art.jpg</image>
+			<duration>309106</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01%20Aron%20SC%20-%20Midnight.mp3</location>
+			<title>Midnight</title>
+			<creator>Aron SC</creator>
+			<duration>348734</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01-jokasti_and_nek-lullaby_%28ogmah_remix%29-d1060db3.mp3</location>
+			<title>Lullaby (Ogmah Remix)</title>
+			<creator>Jokasti &amp; Nek</creator>
+			<album>Green Fetish Remixed</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Jokasti%20%26%20Nek/Green%20Fetish%20Remixed/art.jpg</image>
+			<duration>416107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/04%20Onryo%20%28Obscure%20Shape%20%26%20SHDW%20Remix%29.mp3</location>
+			<title>Onryo (Obscure Shape &amp; SHDW Remix)</title>
+			<creator>Introversion</creator>
+			<album>Onryo</album>
+			<trackNum>4</trackNum>
+			<annotation>Arts / ARTSCORE007</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Introversion/Onryo/art.jpg</image>
+			<duration>379405</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/UMEK%20-%20Whiff%20Punishing%20%28Original%20Mix%29.mp3</location>
+			<title>Whiff Punishing (Original Mix)</title>
+			<creator>UMEK</creator>
+			<album>electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/UMEK/electronicfresh.com/art.jpg</image>
+			<duration>391515</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Umek%20-%2019119%20%28Original%20Mix%29.mp3</location>
+			<title>19119 (Original Mix)</title>
+			<creator>Umek</creator>
+			<album>electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Umek/electronicfresh.com/art.jpg</image>
+			<duration>445181</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Marika%20Rossa%20-%20Hot%20Ice%20%28Marika%20Rossa%20Remix%29.mp3</location>
+			<title>Hot Ice (Marika Rossa Remix)</title>
+			<creator>Marika Rossa</creator>
+			<album>Hot Ice</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit https://industrialtechnounited.bandcamp.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Marika%20Rossa/Hot%20Ice/art.jpg</image>
+			<duration>418351</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/02-dominik_gehringer-lsd_%28original_mix%29-4144d85f.mp3</location>
+			<title>LSD (Original Mix)</title>
+			<creator>Dominik Gehringer</creator>
+			<album>Kick Out</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Dominik%20Gehringer/Kick%20Out/art.jpg</image>
+			<duration>349312</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/05-jno_giovanni_carozza-crispy-818ac733.mp3</location>
+			<title>Crispy</title>
+			<creator>JNO, Giovanni Carozza</creator>
+			<album>SUM 7</album>
+			<trackNum>5</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/JNO%2C%20Giovanni%20Carozza/SUM%207/art.jpg</image>
+			<duration>391761</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01-gigi_de_martino-vulcania_%28original_mix%29-68dfde2f-klin.mp3</location>
+			<title>Vulcania (Original Mix)</title>
+			<creator>Gigi De Martino</creator>
+			<album>Vulcania</album>
+			<trackNum>1</trackNum>
+			<duration>367519</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03.%20Renegades%20of%20Conflict.mp3</location>
+			<title>Renegades of Conflict</title>
+			<creator>Dax J</creator>
+			<album>Shades of Black LP</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Dax%20J/Shades%20of%20Black%20LP/art.jpg</image>
+			<duration>359522</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03-jks-broken_down_speakerz.mp3</location>
+			<title>Broken Down Speakerz</title>
+			<creator>JKS</creator>
+			<album>Molekül FC</album>
+			<trackNum>3</trackNum>
+			<annotation>Molekül / MLKLFC</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/JKS/Molek%C3%BCl%20FC/art.jpg</image>
+			<duration>306445</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01-airod-reaction.mp3</location>
+			<title>Reaction</title>
+			<creator>Airod</creator>
+			<album>Molekül FC</album>
+			<trackNum>1</trackNum>
+			<annotation>Molekül / MLKLFC</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Airod/Molek%C3%BCl%20FC/art.jpg</image>
+			<duration>355242</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/13%20-%20Rendlesham%20Incident.mp3</location>
+			<title>Rendlesham Incident</title>
+			<creator>MAYEUL &amp; JKS</creator>
+			<album>TRIANGULATION HILL</album>
+			<annotation>Visit http://molekul.bandcamp.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/MAYEUL%20%26%20JKS/TRIANGULATION%20HILL/art.jpg</image>
+			<duration>512626</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/06.%20SNTS%20-%20Ego%20Death%20.mp3</location>
+			<title>Ego Death</title>
+			<creator>SNTS</creator>
+			<album>The Unfinished Fight Against Humanity</album>
+			<trackNum>6</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/SNTS/The%20Unfinished%20Fight%20Against%20Humanity/art.jpg</image>
+			<duration>317808</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Aeit%20-%20Spritney%20Brears%20-KHAVA01-.mp3</location>
+			<title>Spritney Brears [KHAVA01]</title>
+			<creator>Aeit</creator>
+			<album>Khazad Records: Various Artists Vol.01 [KHAVA01]</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://khazadrecords.bandcamp.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Aeit/Khazad%20Records_%20Various%20Artists%20Vol.01%20%5BKHAVA01%5D/art.jpg</image>
+			<duration>397871</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/SOYA%20-%20MENACE.mp3</location>
+			<title>MENACE</title>
+			<creator>SOYA</creator>
+			<annotation>Visit https://soyamusic.bandcamp.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/arturl/cfa643a763eaa3c5b3841eef47b8a95d/art.jpg</image>
+			<duration>473495</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/016-boris_s.--what_are_you_waiting_for-oma.mp3</location>
+			<title>What Are You Waiting For</title>
+			<creator>Boris S.</creator>
+			<album>Best Of 15 Years Boris S</album>
+			<trackNum>16</trackNum>
+			<annotation>TEAM OMA</annotation>
+			<duration>414461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Y%C3%83%E2%80%A6%20-%20Fear%20Of%20Repercussions%20%5BTMOR001%5D.mp3</location>
+			<title>Fear Of Repercussions</title>
+			<creator>Y</creator>
+			<album>TMOR: Fear Of Repercussions</album>
+			<duration>337685</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Marie_Vaunt_-_Hex_%28Original_Mix%29.mp3</location>
+			<title>Hex (Original Mix)</title>
+			<creator>Marie Vaunt</creator>
+			<album>A*S*Y*S Presents Fe Chrome Crafted, Vol. 3</album>
+			<trackNum>4</trackNum>
+			<annotation>Purchased at Beatport</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Marie%20Vaunt/A_S_Y_S%20Presents%20Fe%20Chrome%20Crafted%2C%20Vol.%203/art.jpg</image>
+			<duration>411480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/vinya%20-%20caun%20%28rezystor%20remix%29.mp3</location>
+			<title>Caun (Rezystor Remix)</title>
+			<creator>VINYA</creator>
+			<album>Adar EP</album>
+			<trackNum>5</trackNum>
+			<annotation>Märked / MRKD019</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/VINYA/Adar%20EP/art.jpg</image>
+			<duration>411066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/VII%20Circle%20-%20Distorted%20Reality.mp3</location>
+			<title>Distorted Reality</title>
+			<creator>VII Circle</creator>
+			<duration>365035</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/20-destroyer-masterclass_%28sopik_remix%29-8d85c477.mp3</location>
+			<title>Masterclass (Sopik Remix)</title>
+			<creator>Destroyer</creator>
+			<album>Elektrax Recordings: Best Of 2020</album>
+			<trackNum>20</trackNum>
+			<annotation>x0x0s &lt;&gt; just make love</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Destroyer/Elektrax%20Recordings_%20Best%20Of%202020/art.jpg</image>
+			<duration>395444</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/2%20-%20Psychic%20War%20%28SKiRRA%20Remix%29.mp3</location>
+			<title>Psychic War (SKiRRA Remix)</title>
+			<creator>Hans Delbruck</creator>
+			<album>Hans DelbrüCk - Psychic War</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Hans%20Delbruck/Hans%20Delbru%CC%88Ck%20-%20Psychic%20War/art.jpg</image>
+			<duration>334745</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/1%20-%20Rave%20Nation.mp3</location>
+			<title>Rave Nation</title>
+			<creator>Lopez DJ</creator>
+			<album>Rave Nation EP</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Lopez%20DJ/Rave%20Nation%20EP/art.jpg</image>
+			<duration>376729</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Jan%20Vercauteren%20-%20Roll%20%27N%20Rock.mp3</location>
+			<title>Roll &#39;N Rock</title>
+			<creator>Jan Vercauteren</creator>
+			<duration>377208</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01-valerio_panizio-press_%28original_mix%29-494ebc83.mp3</location>
+			<title>Press (Original Mix)</title>
+			<creator>Valerio Panizio</creator>
+			<album>Dolma 4 Years The Original</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Valerio%20Panizio/Dolma%204%20Years%20The%20Original/art.jpg</image>
+			<duration>363810</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/11-stots-shipyard_1998.mp3</location>
+			<title>Shipyard 1998</title>
+			<creator>STØTS</creator>
+			<album>Hang The Clergy</album>
+			<trackNum>11</trackNum>
+			<annotation>.</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/ST%C3%98TS/Hang%20The%20Clergy/art.jpg</image>
+			<duration>338994</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Sopik%20-%20What%20You%20Think%20%28Ayako%20Mori%20Remix%29%20-%20www.djsoundtop.com.mp3</location>
+			<title>What You Think (Ayako Mori Remix)</title>
+			<creator>Sopik</creator>
+			<album>https://djsoundtop.com</album>
+			<annotation>https://djsoundtop.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Sopik/https___djsoundtop.com/art.png</image>
+			<duration>378517</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Dandi%20%26%20Ugo%2C%20Sopik%2C%20Steve%20Soprani%20-%20I%20Was%20%28Haze%20-%20C%20Remix%29%20-%20www.djsoundtop.com.mp3</location>
+			<title>I Was (Haze - C Remix)</title>
+			<creator>Dandi &amp; Ugo, Sopik, Steve Soprani</creator>
+			<album>https://djsoundtop.com</album>
+			<annotation>https://djsoundtop.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Dandi%20%26%20Ugo%2C%20Sopik%2C%20Steve%20Soprani/https___djsoundtop.com/art.png</image>
+			<duration>462030</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Fenrick%20-%20PUSH.mp3</location>
+			<title>Fenrick - PUSH</title>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/arturl/8de02d62b97ae95533c2daf2ae331a4b/art.jpg</image>
+			<duration>360124</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/04-bbone-lights_out_%28dj_pilot_remix%29-1784d926-klin.mp3</location>
+			<title>Lights Out (DJ Pilot Remix)</title>
+			<creator>B.Bone</creator>
+			<album>Lights Out</album>
+			<trackNum>4</trackNum>
+			<duration>373005</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Osiris%20Project%20-%20Look%20At%20Me%20Now%20%5BDolma%20Records%5D.mp3</location>
+			<title>Look At Me Now</title>
+			<creator>Osiris Project</creator>
+			<album>Look At Me Now</album>
+			<trackNum>1</trackNum>
+			<annotation>6A</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Osiris%20Project/Look%20At%20Me%20Now/art.jpg</image>
+			<duration>388026</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/3phazegenerator%2C%20Maxx%20Rossi%20-%20Justice%20EP%20%28Original%20Mix%29%20%5BPolymeric%20Records%5D.mp3</location>
+			<title>Justice EP (Original Mix)</title>
+			<creator>3phazegenerator, Maxx Rossi</creator>
+			<album>Justice EP</album>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/3phazegenerator%2C%20Maxx%20Rossi/Justice%20EP/art.jpg</image>
+			<duration>384177</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01%20-%20Pleasurable%20Pain.mp3</location>
+			<title>Pleasurable Pain</title>
+			<creator>Kaltblume</creator>
+			<album>Hardfloor Brutus EP</album>
+			<trackNum>1</trackNum>
+			<duration>354847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/09%20Kontain%20-%20Spitting%20Blood%20%28Original%20Mix%29.mp3</location>
+			<title>Spitting Blood (Original Mix)</title>
+			<creator>Kontain</creator>
+			<album>??????? ??</album>
+			<trackNum>9</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Kontain/_______%20__/art.jpg</image>
+			<duration>313786</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Midnight%20Vices%20-%20Disorder.mp3</location>
+			<title>Disorder</title>
+			<creator>Midnight Vices</creator>
+			<annotation>10A</annotation>
+			<duration>368065</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Regal%20%28ES%29%20-%20Nasty%20Boys%20%28Original%20Mix%29.mp3</location>
+			<title>Nasty Boys (Original Mix) www.electronicfresh.com</title>
+			<creator>Regal (ES)</creator>
+			<album>electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Regal%20%28ES%29/electronicfresh.com/art.jpg</image>
+			<duration>401829</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01%20Ultimate%20Seduction%20%28Original%20Mix%29.mp3</location>
+			<title>Ultimate Seduction (Original Mix)</title>
+			<creator>Sept</creator>
+			<album>Ultimate Seduction</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Sept/Ultimate%20Seduction/art.jpg</image>
+			<duration>349861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Rudosa%20-%20Dominance%20%28Original%20Mix%29.mp3</location>
+			<title>Dominance (Original Mix)</title>
+			<creator>Rudosa</creator>
+			<album>www.electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Rudosa/www.electronicfresh.com/art.png</image>
+			<duration>407252</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03%20-%20Yellow%20Core.mp3</location>
+			<title>Yellow Core</title>
+			<creator>Exilles</creator>
+			<album>Land of Resurrection</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Exilles/Land%20of%20Resurrection/art.jpg</image>
+			<duration>328989</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/04-vinya-flui__tham_remix.mp3</location>
+			<title>Flui (Tham Remix)</title>
+			<creator>VINYA</creator>
+			<album>Adar EP</album>
+			<trackNum>4</trackNum>
+			<annotation>Märked / MRKD019</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/VINYA/Adar%20EP/art.jpg</image>
+			<duration>378308</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/10%20Battek%20-%20Kick%20and%20Bass%20%28Mix%29.mp3</location>
+			<title>Kick And Bass (Mix)</title>
+			<creator>Battek</creator>
+			<album>Crushed Ice Vol 3</album>
+			<trackNum>10</trackNum>
+			<annotation>FALCON</annotation>
+			<duration>322145</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/KETTiL%20-%20i%20WANT%20TO%20LEAVE.wav</location>
+			<title>i WANT TO LEAVE</title>
+			<creator>KETTiL</creator>
+			<duration>398222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01-double_drums_-_serial_killer_%28original_mix%29.mp3</location>
+			<title>Serial Killer (Original Mix)</title>
+			<creator>Double Drums</creator>
+			<album>Serial Killer</album>
+			<trackNum>1</trackNum>
+			<annotation>.:SRG:.</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Double%20Drums/Serial%20Killer/art.jpg</image>
+			<duration>266922</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/53.%20ROBPM%2C%20MOTVS%20-%20Starkiller%20%28Original%20Mix%29.mp3</location>
+			<title>Starkiller (Original Mix)</title>
+			<creator>ROBPM, MOTVS</creator>
+			<album>electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/ROBPM%2C%20MOTVS/electronicfresh.com/art.png</image>
+			<duration>417387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/DJ%20Jordan%2C%20Droplex%20-%20Driving%20Force%20%28Indepth%20Rmx%29.mp3</location>
+			<title>Driving Force (Indepth Rmx)</title>
+			<creator>DJ Jordan, Droplex</creator>
+			<album>electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/DJ%20Jordan%2C%20Droplex/electronicfresh.com/art.jpg</image>
+			<duration>408819</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Dj%20Jordan%20-%20Cosmic%20Gate.mp3</location>
+			<title>Cosmic Gate</title>
+			<creator>DJ Jordan</creator>
+			<duration>389746</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01%20Ego%20Wars.mp3</location>
+			<title>Ego Wars</title>
+			<creator>Regal</creator>
+			<album>Ego Wars</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Regal/Ego%20Wars/art</image>
+			<duration>331888</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01-regal-looking_4_balance.mp3</location>
+			<title>Looking 4 Balance</title>
+			<creator>Regal</creator>
+			<album>POSSESSION Various Artists EP3</album>
+			<trackNum>1</trackNum>
+			<annotation>.</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Regal/POSSESSION%20Various%20Artists%20EP3/art.jpg</image>
+			<duration>382122</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/SveTec%20-%20Uncontrolled%20%28145%2B%20Edit%29%20%5BMad%20Made%5D.mp3</location>
+			<title>Uncontrolled (145+ Edit)</title>
+			<creator>SveTec</creator>
+			<album>Uncontrolled</album>
+			<trackNum>2</trackNum>
+			<annotation>4B</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/SveTec/Uncontrolled/art.jpg</image>
+			<duration>335049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/04-dan_morris-mercury_%28jeremy_wahab_remix%29.mp3</location>
+			<title>Mercury (Jeremy Wahab Remix)</title>
+			<creator>Dan Morris</creator>
+			<album>Mercury</album>
+			<trackNum>4</trackNum>
+			<annotation>KNOWN®2021</annotation>
+			<duration>429039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03%20-%20Connection.mp3</location>
+			<title>Connection</title>
+			<creator>Jeremy Wahab</creator>
+			<album>Virtualverse EP</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Jeremy%20Wahab/Virtualverse%20EP/art.jpg</image>
+			<duration>395157</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/New%20Frames%20-%20Eine%20Andere%20Welt%20%28Perc%20Remix%29.mp3</location>
+			<title>Eine Andere Welt (Perc Remix)</title>
+			<creator>New Frames</creator>
+			<album>Stylized Fear</album>
+			<trackNum>4</trackNum>
+			<annotation>Haven / HVN009</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/New%20Frames/Stylized%20Fear/art.jpg</image>
+			<duration>374546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/7%20-%20B.Bone%20-%20The%20Shadow%20%28AFFLICTED%20Remix%29.mp3</location>
+			<title>The Shadow (AFFLICTED Remix)</title>
+			<creator>B.bone</creator>
+			<album>Nothing But... Hard Techno Selections, Vol. 15</album>
+			<trackNum>7</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/B.bone/Nothing%20But...%20Hard%20Techno%20Selections%2C%20Vol.%2015/art.png</image>
+			<duration>362530</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/ketti/OneDrive/Desktop/Maximum%20Acid%20Remix%202.wav</location>
+			<title>Maximum Acid (KETTiL Remix)</title>
+			<creator>Yohan</creator>
+			<duration>410704</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/02-heliv-stillborn_requiem_%28original_mix%29-0997b911.mp3</location>
+			<title>Stillborn Requiem (Original Mix)</title>
+			<creator>hel.IV</creator>
+			<album>The Dagger &amp; The Thought EP</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/hel.IV/The%20Dagger%20%26%20The%20Thought%20EP/art.jpg</image>
+			<duration>507066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/02%20Cristian%20Glitch%20-%20Back%20in%20the%2080s%20%28Shadym%20%26%20Tximeleta%20Remix%29.mp3</location>
+			<title>Back in the 80s (Shadym &amp; Tximeleta Remix)</title>
+			<creator>Cristian Glitch</creator>
+			<duration>383712</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/6%20-%20Muhi%20-%20Dark%20Love%20%28Original%20Mix%29.aiff</location>
+			<title>Dark Love (Original Mix)</title>
+			<creator>Muhi</creator>
+			<duration>315428</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/02-swart-nostalgia.mp3</location>
+			<title>Nostalgia</title>
+			<creator>SWART</creator>
+			<album>NTND001</album>
+			<trackNum>2</trackNum>
+			<annotation>.</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/SWART/NTND001/art.jpg</image>
+			<duration>408401</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/The%20Unseen%20-%20Parallx.mp3</location>
+			<title>The Unseen</title>
+			<creator>Parallx</creator>
+			<album>Rp4</album>
+			<trackNum>3</trackNum>
+			<annotation>Downloaded with Athame 0.4.8.0.</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Parallx/Rp4/art.jpg</image>
+			<duration>430579</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Buzzi%20-%20Mutation.mp3</location>
+			<title>Mutation</title>
+			<creator>Buzzi</creator>
+			<album>Lost Tapes (Unofficial)</album>
+			<trackNum>17</trackNum>
+			<annotation>6A</annotation>
+			<duration>449779</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03%20-%20Roll%20%27N%20Rock%20%28Tham%20Remix%29.mp3</location>
+			<title>Roll &#39;N Rock (Tham Remix)</title>
+			<creator>Jan Vercauteren</creator>
+			<album>Higher Pitch</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Jan%20Vercauteren/Higher%20Pitch/art.jpg</image>
+			<duration>382226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Gigi_de_Martino_-_Women_Only_%28Original_Mix%29.mp3</location>
+			<title>Women Only (Original Mix)</title>
+			<creator>Gigi de Martino</creator>
+			<album>La Pomme Empoisonnée EP</album>
+			<trackNum>2</trackNum>
+			<annotation>Purchased at Beatport</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Gigi%20de%20Martino/La%20Pomme%20Empoisonn%C3%A9e%20EP/art.jpg</image>
+			<duration>348499</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Noseda_-_Girl_On_Fire_%28Original_Mix%29.mp3</location>
+			<title>Girl On Fire (Original Mix)</title>
+			<creator>Noseda</creator>
+			<album>Girl On Fire</album>
+			<trackNum>1</trackNum>
+			<annotation>Purchased at Beatport</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Noseda/Girl%20On%20Fire/art.jpg</image>
+			<duration>416914</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Sascha%20Audit%20-%20Roasted%20%28Original%20Mix%29.mp3</location>
+			<title>Roasted (Original Mix)</title>
+			<creator>Sascha Audit</creator>
+			<album>www.electronicfresh.com</album>
+			<annotation>www.electronicfresh.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Sascha%20Audit/www.electronicfresh.com/art.jpg</image>
+			<duration>395967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/23%20-%20Angy%20Kore%20-%20Look%20at%20That%20Horse%20%28Joele%20Basili%20Remix%29.mp3</location>
+			<title>Look at That Horse (Joele Basili Remix)</title>
+			<creator>Angy Kore, Gabriel padrevita</creator>
+			<album>freednb.com - musikmp3.ucoz.com</album>
+			<trackNum>2</trackNum>
+			<annotation>freednb.com - musikmp3.ucoz.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Angy%20Kore%2C%20Gabriel%20padrevita/freednb.com%20-%20musikmp3.ucoz.com/art.jpg</image>
+			<duration>324470</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/CENSURE%2C%C3%82%C2%A0Van%20da%20Mas%20-%20Freedom.mp3</location>
+			<title>Freedom</title>
+			<creator>CENSURE Van da Mas</creator>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/arturl/10704109df625c699f681bd6675625a9/art.jpg</image>
+			<duration>352128</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Alignment%20-%20Into%20The%20Unknown.mp3</location>
+			<title>Into The Unknown</title>
+			<creator>Alignment</creator>
+			<duration>424257</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Basswell%20-%20Around.mp3</location>
+			<title>Around</title>
+			<creator>Basswell</creator>
+			<annotation>Visit http://homicidrecords.bandcamp.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/arturl/e9910bb9c5e41b0e202474abb83a48de/art.jpg</image>
+			<duration>300904</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Rich%20Campbell%20%20%20Doves%2C%20Gloves%20%20Glowsticks%20%28Original%20Mix%29.mp3</location>
+			<title>Doves, Gloves  Glowsticks (Original Mix)</title>
+			<creator>Rich Campbell</creator>
+			<duration>385704</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/H%C3%A4mtade%20filer/01%20-%20Annihilation%20%28Original%20Mix%29%20%28online-audio-converter.com%29.mp3</location>
+			<title>Annihilation (Original Mix)</title>
+			<creator>Forbidden</creator>
+			<album>Annihilation</album>
+			<annotation>online-audio-converter.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Forbidden/Annihilation/art.jpg</image>
+			<duration>361508</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Stan%20Christ%20-%20Trepidation.mp3</location>
+			<title>Stan Christ - Trepidation</title>
+			<duration>262455</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03-dax_j-speedball.mp3</location>
+			<title>Speedball</title>
+			<creator>Dax J</creator>
+			<album>Chaos Come To Conquer EP</album>
+			<trackNum>3</trackNum>
+			<annotation>Monnom Black / MONNOM018</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Dax%20J/Chaos%20Come%20To%20Conquer%20EP/art.jpg</image>
+			<duration>340065</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/SHDW%20%26%20Obscure%20Shape%20-%20Endgegner%20%28Original%20Mix%29.mp3</location>
+			<title>Endgegner</title>
+			<creator>SHDW &amp; Obscure Shape</creator>
+			<album>Der Weg des Kriegers</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/SHDW%20%26%20Obscure%20Shape/Der%20Weg%20des%20Kriegers/art.jpg</image>
+			<duration>382984</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/02-hadone-hate_after_midnight__manni_dee_remix.mp3</location>
+			<title>Hate After Midnight (Manni Dee Remix)</title>
+			<creator>Hadone</creator>
+			<album>Hate After Midnight EP</album>
+			<trackNum>2</trackNum>
+			<annotation>Them Recordings / THEM014</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Hadone/Hate%20After%20Midnight%20EP/art.jpg</image>
+			<duration>399833</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/DYEN%20-%20Various%20Artists%20002%20-%2004%20My%20Thoughts.mp3</location>
+			<title>My Thoughts</title>
+			<creator>DYEN</creator>
+			<album>Various Artists 002</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit https://mainmiserecords.bandcamp.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/DYEN/Various%20Artists%20002/art.jpg</image>
+			<duration>353410</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Gauthier%20-%20Moonstone%20%28OWLK%20Remix%29.mp3</location>
+			<title>Moonstone (OWLK Remix) [TraxCrate.com]</title>
+			<creator>Gauthier</creator>
+			<album>TraxCrate.com</album>
+			<annotation>TraxCrate.com</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Gauthier/TraxCrate.com/art.png</image>
+			<duration>451190</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03-matasism-cold_and_blank.mp3</location>
+			<title>Cold And Blank</title>
+			<creator>Matasism</creator>
+			<album>MF EP</album>
+			<trackNum>3</trackNum>
+			<annotation>EMERALD / EMERALD007</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Matasism/MF%20EP/art.jpg</image>
+			<duration>369479</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/2%20-%20Can%27t%20Fuck%20With%20Rave.mp3</location>
+			<title>Can&#39;t Fuck With Rave</title>
+			<creator>Airod</creator>
+			<album>Burn Injury</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Airod/Burn%20Injury/art.jpg</image>
+			<duration>356858</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01%20Roentgen%20Limiter%20-%20The%20Old%20School.mp3</location>
+			<title>The Old School</title>
+			<creator>Roentgen Limiter</creator>
+			<album>2 Years Of BMR</album>
+			<trackNum>1</trackNum>
+			<duration>361903</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/10-ben_dust-endo_%28n_o_b_a_remix%29-4fa6729b.mp3</location>
+			<title>Endo (N.O.B.A Remix)</title>
+			<creator>Ben Dust</creator>
+			<album>Best Of Eclipse 2020</album>
+			<trackNum>10</trackNum>
+			<annotation>x0x0s &lt;&gt; just make love</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Ben%20Dust/Best%20Of%20Eclipse%202020/art.jpg</image>
+			<duration>426948</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01-luciid-fugazi-b22e4af8.mp3</location>
+			<title>Fugazi</title>
+			<creator>Luciid</creator>
+			<album>Fugazi</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Luciid/Fugazi/art.jpg</image>
+			<duration>393119</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01-shlomo-dodge_this.mp3</location>
+			<title>Dodge This</title>
+			<creator>Shlømo</creator>
+			<album>POSSESSION Various Artists EP2</album>
+			<trackNum>1</trackNum>
+			<annotation>POSSESSION / POSS002</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Shl%C3%B8mo/POSSESSION%20Various%20Artists%20EP2/art.jpg</image>
+			<duration>400225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03%20-%20Discipline%20%28Original%20Mix%29.mp3</location>
+			<title>Discipline (Original Mix)</title>
+			<creator>Trust True</creator>
+			<album>Discipline EP</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Trust%20True/Discipline%20EP/art.jpg</image>
+			<duration>330922</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Zerotonine%20-%20Transcend%20%28Original%20Mix%29.mp3</location>
+			<title>Transcend (Original Mix)</title>
+			<creator>Zerotonine</creator>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/arturl/cfcc39d83aaeb3295f69731dcc4b0782/art.jpg</image>
+			<duration>432460</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Shadym_-_Antidote_%28Original_Mix%29.mp3</location>
+			<title>Antidote (Original Mix)</title>
+			<creator>Shadym</creator>
+			<album>Ravenous Greates Hits</album>
+			<trackNum>2</trackNum>
+			<annotation>Purchased at Beatport</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Shadym/Ravenous%20Greates%20Hits/art.jpg</image>
+			<duration>398262</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Schiere_-_Gefahrlich_%28Original_Mix%29.mp3</location>
+			<title>Gefahrlich (Original Mix)</title>
+			<creator>Schiere</creator>
+			<album>Gefahrlich</album>
+			<trackNum>1</trackNum>
+			<annotation>Purchased at Beatport</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Schiere/Gefahrlich/art.jpg</image>
+			<duration>338573</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Marco%20Ginelli%2C%20Victoria%20Franches%20-%20Epinephrine%20%28Original%20Mix%29.mp3</location>
+			<title>Epinephrine (Original Mix)</title>
+			<creator>Marco Ginelli, Victoria Franches</creator>
+			<album>Epinephrine</album>
+			<trackNum>1</trackNum>
+			<annotation>Purchased at Beatport</annotation>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Marco%20Ginelli%2C%20Victoria%20Franches/Epinephrine/art.jpg</image>
+			<duration>370337</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>143</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/H%C3%A4mtade%20filer/01%20Marika%20Rossa%20-%20Ey%2C%20DJ%20%28Vocal%20Mix%29.mp3</location>
+			<title>Ey, DJ (Vocal Mix)</title>
+			<creator>Marika Rossa</creator>
+			<album>Ey, DJ</album>
+			<trackNum>1</trackNum>
+			<image>file:///D:/H%C3%A4mtade%20filer/cover.jpg</image>
+			<duration>348735</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/H%C3%A4mtade%20filer/01-exploSpirit-Megatronic-Interpolation.mp3</location>
+			<title>Megatronic Interpolation</title>
+			<creator>ExploSpirit</creator>
+			<album>Megatronic Interpolation</album>
+			<trackNum>1</trackNum>
+			<image>file:///D:/H%C3%A4mtade%20filer/cover.jpg</image>
+			<duration>460355</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/H%C3%A4mtade%20filer/01-Leonardo-Luiz-Spirit-of-the-Pharaoh.mp3</location>
+			<title>Spirit of the Pharaoh (Original Mix)</title>
+			<creator>Leonardo Luiz</creator>
+			<album>Spirit of the Pharaoh</album>
+			<trackNum>1</trackNum>
+			<image>file:///D:/H%C3%A4mtade%20filer/cover.jpg</image>
+			<duration>337998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/H%C3%A4mtade%20filer/01-Sleipnir-We-are-Virus.mp3</location>
+			<title>01-Sleipnir-We-are-Virus</title>
+			<image>file:///D:/H%C3%A4mtade%20filer/cover.jpg</image>
+			<duration>303412</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/H%C3%A4mtade%20filer/02-NoiseDrug-Techno-Experience-_Algia-Remix_.mp3</location>
+			<title>Techno Experience (Remix)</title>
+			<creator>Algia</creator>
+			<album>Techno Experience</album>
+			<trackNum>2</trackNum>
+			<image>file:///D:/H%C3%A4mtade%20filer/cover.jpg</image>
+			<duration>423601</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/H%C3%A4mtade%20filer/02-Puncher-Time-Turns-_Roby-M-Rage-Remix_.mp3</location>
+			<title>Time Turns (Roby M Rage Remix)</title>
+			<creator>Puncher</creator>
+			<album>Time Turns</album>
+			<trackNum>2</trackNum>
+			<image>file:///D:/H%C3%A4mtade%20filer/cover.jpg</image>
+			<duration>447085</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>149</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/H%C3%A4mtade%20filer/03%20BSLS%20-%20Accelerating%20Universe.mp3</location>
+			<title>Accelerating Universe</title>
+			<creator>BSLS</creator>
+			<album>The Great Attractor EP</album>
+			<trackNum>3</trackNum>
+			<image>file:///D:/H%C3%A4mtade%20filer/cover.jpg</image>
+			<duration>357565</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/H%C3%A4mtade%20filer/04-Hypertension.mp3</location>
+			<title>Hypertension</title>
+			<creator>Dahryl</creator>
+			<album>Distorted Frustration EP</album>
+			<trackNum>4</trackNum>
+			<image>file:///D:/H%C3%A4mtade%20filer/cover.jpg</image>
+			<duration>403931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>151</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/H%C3%A4mtade%20filer/06-Skirra-Everybody-Wants-to-be-a-Techno-DJ.mp3</location>
+			<title>Everybody Wants to Be a Techno DJ</title>
+			<creator>SKiRRA</creator>
+			<album>Project Fear [Album]</album>
+			<trackNum>6</trackNum>
+			<image>file:///D:/H%C3%A4mtade%20filer/cover.jpg</image>
+			<duration>390479</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/1%20-%20No%20Exception.mp3</location>
+			<title>No Exception</title>
+			<creator>Pulse Plant</creator>
+			<album>No Exceptions</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Pulse%20Plant/No%20Exceptions/art.png</image>
+			<duration>378265</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/16-lotus8-mental_package_%28paintrain_remix%29-9807b386.mp3</location>
+			<title>Mental Package (PainTrain Remix)</title>
+			<creator>Lotus8</creator>
+			<album>Compact, Vol. 7</album>
+			<trackNum>16</trackNum>
+			<image>file:///C:/Users/ketti/AppData/Roaming/vlc/art/artistalbum/Lotus8/Compact%2C%20Vol.%207/art.jpg</image>
+			<duration>360179</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>154</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/07-andre_drath-dark_triangle_%28felix_wehden_remix%29-e29b2b.mp3</location>
+			<title>Dark Triangle (Felix Wehden Remix)</title>
+			<creator>Andre Drath</creator>
+			<duration>368000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>155</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/07-sutura-firefihter.mp3</location>
+			<title>Firefihter</title>
+			<creator>Sutura</creator>
+			<duration>370000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>156</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01-gigi_de_martino-dynamite-518eb61c.mp3</location>
+			<title>Dynamite</title>
+			<creator>Gigi de Martino</creator>
+			<duration>358000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>157</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/03-e_l_i_a_s--every_human_is_an_enemy-275c0bcc.mp3</location>
+			<title>Every Human Is an Enemy</title>
+			<creator>E.L.I.A.S</creator>
+			<duration>357000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>158</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/01%20-%20Aktivist.mp3</location>
+			<title>Aktivist</title>
+			<creator>Sascha Audit; Timo Revna</creator>
+			<duration>383000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>159</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/40-audiowarp-sunstorm_%28original_mix%29.mp3</location>
+			<title>Sunstorm (Original Mix)</title>
+			<creator>Audiowarp</creator>
+			<duration>450000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>160</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/04-david_temessi-mental_problem.mp3</location>
+			<title>Mental Problem</title>
+			<creator>David Temessi</creator>
+			<duration>465000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>161</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/David%20Venom%20-%20Let%20Me%20Save%20You%20%28Original%20Mix%29%20-%20www.djsoundtop.com.mp3</location>
+			<title>Let Me Save You (Original Mix)</title>
+			<creator>David Venom</creator>
+			<duration>361000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>162</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Ig%20Noise%20-%20Hexagon%20%28SveTec%20Remix%29.mp3</location>
+			<title>Hexagon (SveTec Remix)</title>
+			<creator>Ig Noise</creator>
+			<duration>339000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>163</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/Ahl%20Iver%20-%20Steam%20Train%20%28Original%20Mix%29.mp3</location>
+			<title>Steam Train</title>
+			<creator>Ahl Iver</creator>
+			<duration>319000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>164</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Downloads/SLSK/02-absntmnded-negative_judgement-d7ff83a2-klin.mp3</location>
+			<title>Negative Judgement</title>
+			<creator>Absntmnded</creator>
+			<duration>343000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>165</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+		<vlc:item tid="89"/>
+		<vlc:item tid="90"/>
+		<vlc:item tid="91"/>
+		<vlc:item tid="92"/>
+		<vlc:item tid="93"/>
+		<vlc:item tid="94"/>
+		<vlc:item tid="95"/>
+		<vlc:item tid="96"/>
+		<vlc:item tid="97"/>
+		<vlc:item tid="98"/>
+		<vlc:item tid="99"/>
+		<vlc:item tid="100"/>
+		<vlc:item tid="101"/>
+		<vlc:item tid="102"/>
+		<vlc:item tid="103"/>
+		<vlc:item tid="104"/>
+		<vlc:item tid="105"/>
+		<vlc:item tid="106"/>
+		<vlc:item tid="107"/>
+		<vlc:item tid="108"/>
+		<vlc:item tid="109"/>
+		<vlc:item tid="110"/>
+		<vlc:item tid="111"/>
+		<vlc:item tid="112"/>
+		<vlc:item tid="113"/>
+		<vlc:item tid="114"/>
+		<vlc:item tid="115"/>
+		<vlc:item tid="116"/>
+		<vlc:item tid="117"/>
+		<vlc:item tid="118"/>
+		<vlc:item tid="119"/>
+		<vlc:item tid="120"/>
+		<vlc:item tid="121"/>
+		<vlc:item tid="122"/>
+		<vlc:item tid="123"/>
+		<vlc:item tid="124"/>
+		<vlc:item tid="125"/>
+		<vlc:item tid="126"/>
+		<vlc:item tid="127"/>
+		<vlc:item tid="128"/>
+		<vlc:item tid="129"/>
+		<vlc:item tid="130"/>
+		<vlc:item tid="131"/>
+		<vlc:item tid="132"/>
+		<vlc:item tid="133"/>
+		<vlc:item tid="134"/>
+		<vlc:item tid="135"/>
+		<vlc:item tid="136"/>
+		<vlc:item tid="137"/>
+		<vlc:item tid="138"/>
+		<vlc:item tid="139"/>
+		<vlc:item tid="140"/>
+		<vlc:item tid="141"/>
+		<vlc:item tid="142"/>
+		<vlc:item tid="143"/>
+		<vlc:item tid="144"/>
+		<vlc:item tid="145"/>
+		<vlc:item tid="146"/>
+		<vlc:item tid="147"/>
+		<vlc:item tid="148"/>
+		<vlc:item tid="149"/>
+		<vlc:item tid="150"/>
+		<vlc:item tid="151"/>
+		<vlc:item tid="152"/>
+		<vlc:item tid="153"/>
+		<vlc:item tid="154"/>
+		<vlc:item tid="155"/>
+		<vlc:item tid="156"/>
+		<vlc:item tid="157"/>
+		<vlc:item tid="158"/>
+		<vlc:item tid="159"/>
+		<vlc:item tid="160"/>
+		<vlc:item tid="161"/>
+		<vlc:item tid="162"/>
+		<vlc:item tid="163"/>
+		<vlc:item tid="164"/>
+		<vlc:item tid="165"/>
+	</extension>
+</playlist>
