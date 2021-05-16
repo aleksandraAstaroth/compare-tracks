@@ -1,40 +1,45 @@
 import {React, useEffect, useState}  from 'react';
-import logo from './logo.svg';
+
 import './App.css';
+import Dropdown from './components/Dropdown.js'
 
 function App() {
 
-    const [data, setData] = useState(null);
-    const [dataApi, setDataApi] = useState(null);
+    const [rekordboxData, setRekordboxData] = useState([]);
+    const [spotifyTracks, setSpotifyTracks] = useState([]);
+
 
     useEffect(() => {
-      fetch("/tracks")
-      .then((response) => response.json())
-      .then((data) => setData(data.tracks)).catch(err => {
-        console.log(err);
-      });
+      const fetchRekordboxTracks = async() => {
+        const response = await fetch("/tracks")
+        const responseData= await response.json()
+        setRekordboxData(responseData)
+      };
+        fetchRekordboxTracks()
+  }, []);
 
-      fetch("/apiSpotify")
-      .then((responseSpotify) => responseSpotify.json())
-      .then((dataApi) => setDataApi(dataApi.spotifyData)).catch(err => {
-        console.log(err);
-        console.log(dataApi)
-      });
+    useEffect(() => {
+    const fetchSpotifyTracks = async() => {
+    const response = await fetch("/apiSpotify")
+    const responseData = await response.json()
+    setSpotifyTracks(responseData.spotifyData)
+  }; fetchSpotifyTracks();
+  },[]);
 
-    }, []);
+console.log(rekordboxData)
+console.log(spotifyTracks)
+
 
 
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>{!data ? "Loading..." : data}</p>
-        <p>{!dataApi ? "Loading..." : dataApi}</p>
-        
-      
-      </header>
-    </div>
+      <Dropdown tracks={rekordboxData} ></Dropdown>
+      <Dropdown tracks={spotifyTracks}></Dropdown>
+     {/* <p>{!rekordboxData ? "Loading..." : rekordboxData}</p> */}
+ 
+      </div>
   );
 }
+
 
 export default App;

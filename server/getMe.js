@@ -1,6 +1,6 @@
 const fs = require('fs')
 const SpotifyWebApi = require('spotify-web-api-node');
-const token = "XXXXXX";
+const token = "XXXXX";
 
 const spotifyApi = new SpotifyWebApi();
 spotifyApi.setAccessToken(token);
@@ -9,17 +9,13 @@ spotifyApi.setAccessToken(token);
  async function getMyData() {
       const me = await spotifyApi.getMe();
        //console.log(me.body);
-
        return getPlaylistTracks("2XkeiEQvOxJsIXIfCMZspC", "Techno Shite")
-      
     }
-
  async function getPlaylistTracks(playlistId, playlistName) {
-   
 
 let offset = 0
 let limit = 100
-let trackTitles = [];
+let trackArray = [];
 let data;
 
 console.log("'" + playlistName + "'" + ' contains these tracks:'); 
@@ -28,33 +24,29 @@ console.log("'" + playlistName + "'" + ' contains these tracks:');
     data = await spotifyApi.getPlaylistTracks(playlistId, {
        offset: offset, 
        limit: limit,
-       fields: 'items[0].track.name'
+       fields: 'items[0]'
    }).catch(e => {
     console.error(e);
     console.log("promise rejected")
   });
-   
-  
    //tracksInPlaylist = data.body.total
 
    for (let track_obj of data.body.items) {
     const track = track_obj.track
-    trackTitles.push(track.name + " : " + track.artists[0].name)
-    //console.log(track.name + " : " + track.artists[0].name)
-   
+    trackArray.push({
+        id: track.name,
+        name: track.name,
+        artist: track.artists[0].name
+    })
 }
     offset += 100
-
     } while (data.body.next != null && data.body.next != '');
 
 //console.log(typeof(data))
 //console.log("---------------+++++++++++++++++++++++++")
 //console.log(Array.isArray(trackTitles))
-console.log(trackTitles)
-return trackTitles ;
-
+console.log(trackArray)
+return trackArray ;
 } 
-
-
 
 module.exports.getMyData = getMyData 

@@ -5,8 +5,6 @@ const app = express();
 const cors = require("cors");
 const bodyParser = require("body-parser");
 
-
-
 const path = require('path');
 const port = process.env.PORT || 3001;
 
@@ -16,9 +14,9 @@ app.use(express.static(path.resolve(__dirname, '../client/build')));
 const fs = require('fs');
 const parser = require('xml2json');
 
-//var inspect = require('eyes').inspector({maxLength: 500})
+const inspect = require('eyes').inspector({maxLength: 1000})
 
-  let tracks = []
+  let rekordboxTrackData = []
 fs.readFile('server/PlaylistXSPF.xspf', 'utf8', (err, data) => {
      if(err) {
       console.log("error")
@@ -29,9 +27,13 @@ fs.readFile('server/PlaylistXSPF.xspf', 'utf8', (err, data) => {
      console.log(Array.isArray(trackArray))
      
      for(let i = 0; i < trackArray.length; i++) {
-      tracks.push(trackArray[i].title)
+      rekordboxTrackData.push({
+         id: trackArray[i].title,
+         name: trackArray[i].title,
+         artist: trackArray[i].creator
+        })
      } 
-     
+     //console.log(rekordboxTrackData[0])
  })
  //creates javascript object 
 const options = {
@@ -44,18 +46,15 @@ app.use(bodyParser.urlencoded({ extended: true }));
 //api send rekordbox tracks to frontend
 app.get('/tracks', async (req, res) => {
   try {
-    res.status(200).json({
-      tracks
-      
-    })
+    res.status(200).json(
+      rekordboxTrackData
+  )
   } catch (err) {
     res.status(400).json({
       message: "Some error occurred", err
     })
   }
 })
-
-
 
 // //spotify
 const scopes = [
