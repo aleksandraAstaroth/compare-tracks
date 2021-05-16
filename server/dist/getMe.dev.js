@@ -4,7 +4,7 @@ var fs = require('fs');
 
 var SpotifyWebApi = require('spotify-web-api-node');
 
-var token = "XXXXX";
+var token = "";
 var spotifyApi = new SpotifyWebApi();
 spotifyApi.setAccessToken(token); //GET MY PROFILE DATA
 

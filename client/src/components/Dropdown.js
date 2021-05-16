@@ -12,11 +12,10 @@ const Dropdown = props => {
   setValue(event.target.value)
  }
 
-const results = !value
-? props.tracks
-: props.tracks.filter(track =>
-    track.name.toLowerCase().includes(value.toLowerCase())
-  );
+    const results = !value
+    ? props.tracks
+    : props.tracks.filter(track =>
+        track.name.toLowerCase().includes(value.toLowerCase()));
 
 
     return ( 
@@ -25,7 +24,7 @@ const results = !value
         <form>
             <input className="chosen-value" type="text" value={value} placeholder="Search in playlist..."  onChange={handleSearch}/>
             <ul {...toggleDropdownProps}>
-               {results.map((track, key) => {
+               {results && results.map((track, key) => {
                 return <li className="item" key={key + 1} value={track.name.value}>{track.name}</li> }
                 )} 
             </ul>

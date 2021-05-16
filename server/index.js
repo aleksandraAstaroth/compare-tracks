@@ -150,7 +150,6 @@ app.get('/apiSpotify', async (req, res) => {
     })
   }
 })
-
 app.use(cors());
 app.get('*', (req, res) => {
   res.sendFile(path.resolve(__dirname, '../client/build', 'index.html'));
